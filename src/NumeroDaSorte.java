@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class PrimeiraClasse {
+public class NumeroDaSorte {
     public static void main(String[] args){
 
         int numeroSecreto = new Random().nextInt(100);
